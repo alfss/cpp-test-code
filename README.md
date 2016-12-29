@@ -2,6 +2,8 @@
 
 * cmake 3.5
 * g++
+* boost
+* yaml-cpp
 * CLion (IDE)
 
 
