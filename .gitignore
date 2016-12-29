@@ -4,4 +4,6 @@ CMakeCache.txt
 CMakeFiles
 cmake-build-debug
 *.cbp
+cmake_install.cmake
+data.yml
 
