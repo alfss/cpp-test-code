@@ -60,6 +60,5 @@ JournalController::JournalController() {
 }
 
 JournalController::~JournalController() {
-    JournalController::save();
 }
 
